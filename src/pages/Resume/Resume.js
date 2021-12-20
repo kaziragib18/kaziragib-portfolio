@@ -8,7 +8,8 @@ const Resume = () => {
                 <div className="section-title d-flex">
                     <h5 className="pe-3">Resume</h5> <hr className="hr" />
                 </div>
-                <p className=""><button className="btn text-primary fs-6 underline ps-0 pe-1"><a href="https://drive.google.com/uc?export=download&id=1Yj1i5D7mQMX-Ar3y7eRXJ514WNFVFzPZ">Download</a></button>| <button className="btn text-primary fs-6 underline ps-0"><a target="_blank" href="https://drive.google.com/file/d/1Yj1i5D7mQMX-Ar3y7eRXJ514WNFVFzPZ/view?usp=sharing">View</a></button></p>
+                <p className=""><button className="btn text-primary fs-6 underline ps-0 pe-1"><a href="https://drive.google.com/uc?export=download&id=1uAUnBiFdtnK65H0jm-wz9ikFrGhLseCD">Download</a></button>| <button className="btn text-primary fs-6 underline ps-0"><a target="_blank" href="https://drive.google.com/file/d/1uAUnBiFdtnK65H0jm-wz9ikFrGhLseCD/view?usp=sharing">View</a></button></p>
+
 
                 <div className="row">
                     <div className="col-lg-6">
