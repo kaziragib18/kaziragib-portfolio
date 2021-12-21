@@ -26,7 +26,7 @@ const About = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <ul className="fst-italic">
-                                    <li><i className="fas fa-chevron-right"></i><strong >Phone: </strong> <span>+880 1754 063712</span></li>
+                                    <li><i className="fas fa-chevron-right"></i><strong >Phone: </strong> <span>+880 194943 4546</span></li>
                                 </ul>
                             </div>
                             <div className="col-lg-6">

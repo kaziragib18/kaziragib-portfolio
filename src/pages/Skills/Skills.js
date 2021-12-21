@@ -26,23 +26,23 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="progress">
-                        <span className="skill">SASS <i className="val">75%</i></span>
+                        <span className="skill">SASS <i className="val">80%</i></span>
                         <div className="progress-bar-wrap">
                             <div className="progress-bar-css" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
 
                     <div className="progress">
-                        <span className="skill">Bootstrap <i className="val">85%</i></span>
+                        <span className="skill">Bootstrap<i className="val">80%</i></span>
                         <div className="progress-bar-wrap">
-                            <div className="progress-bar-bt" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar-css" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
 
                     <div className="progress">
                         <span className="skill">Metarial Ui <i className="val">75%</i></span>
                         <div className="progress-bar-wrap">
-                            <div className="progress-bar-bt" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar-js" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
 
@@ -56,7 +56,7 @@ const Skills = () => {
                 </div>
 
                 <div className="col-lg-6">
-                    
+
                     <div className="progress">
                         <span className="skill">JavaScript <i className="val">75%</i></span>
                         <div className="progress-bar-wrap">
@@ -67,34 +67,34 @@ const Skills = () => {
                     <div className="progress">
                         <span className="skill">Node.js <i className="val">80%</i></span>
                         <div className="progress-bar-wrap">
-                            <div className="progress-bar-Node" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar-css" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
                     <div className="progress">
-                        <span className="skill">Express <i className="val">75%</i></span>
+                        <span className="skill">Express <i className="val">80%</i></span>
                         <div className="progress-bar-wrap">
-                            <div className="progress-bar-Express" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                        </div>
-                    </div>
-
-                    <div className="progress">
-                        <span className="skill">MongoDB <i className="val">75%</i></span>
-                        <div className="progress-bar-wrap">
-                            <div className="progress-bar-mongoDB" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar-css" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
 
                     <div className="progress">
-                        <span className="skill">Firebase <i className="val">70%</i></span>
+                        <span className="skill">MongoDB <i className="val">80%</i></span>
                         <div className="progress-bar-wrap">
-                            <div className="progress-bar-firebase" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar-css" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
 
                     <div className="progress">
-                        <span className="skill">Nextjs <i className="val">70%</i></span>
+                        <span className="skill">Firebase <i className="val">80%</i></span>
                         <div className="progress-bar-wrap">
-                            <div className="progress-bar-python" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar-css" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+
+                    <div className="progress">
+                        <span className="skill">Next.js <i className="val">75%</i></span>
+                        <div className="progress-bar-wrap">
+                            <div className="progress-bar-js" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
 
