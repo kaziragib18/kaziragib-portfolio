@@ -13,7 +13,7 @@ const Project5 = (props) => {
         >
             <Modal.Header closeButton className="modalHeader py-1">
                 <Modal.Title id="contained-modal-title-vcenter ">
-                    <h3 className="textJustify headingText pt-2 text-white">GRACE.</h3>
+                    <h3 className="textJustify headingText pt-2 text-white">Soul Burger</h3>
                 </Modal.Title>
             </Modal.Header>
             <Modal.Body className="portfolio Background">

@@ -1,4 +1,5 @@
 import React from 'react';
+import P0 from '../P0/P0';
 import P1 from '../P1/P1';
 import P2 from '../P2/P2';
 import P3 from '../P3/P3';
@@ -14,7 +15,7 @@ const Projects = () => {
             <div className="container">
 
                 <div className="section-title d-flex">
-                    <h5 className="pe-3">Portfolio</h5> <hr className="hr" />
+                    <h5 className="pe-3 pb-4">Portfolio</h5> <hr className="hr" />
                 </div>
                 {/* <p className="text-center fs-4">My Works</p>
 
@@ -30,6 +31,9 @@ const Projects = () => {
 
                 {/* projects list */}
 
+                <P0 />
+                <div className="py-5">
+                </div>
                 <P1 />
                 <div className="py-5">
                 </div>
@@ -42,10 +46,10 @@ const Projects = () => {
                 <P4 />
                 <div className="py-5">
                 </div>
-                <P5/>
+                <P5 />
                 <div className="py-5">
                 </div>
-                <P6/>
+                <P6 />
 
 
             </div>

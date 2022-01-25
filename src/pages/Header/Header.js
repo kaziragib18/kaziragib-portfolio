@@ -12,9 +12,9 @@ const Header = () => {
                             <h1>Kazi Md. Ragib</h1>
 
                             <div className="wrapper d-md-inline-flex  pt-3">
-                                <div style={{padding:"1.75px"}} className="static-txt me-3 fs-md-3 fw-bold">I'm a passionate</div>
+                                <div style={{ padding: "1.75px" }} className="static-txt me-3 fs-md-3 fw-bold">I'm a passionate</div>
                                 <ul className="dynamic-txts ps-2 ">
-                                    <li className="fs-md-3 ps-2 ps-md-0"><span style={{fontWeight:"bold"}}>Front End Developer</span></li>
+                                    <li className="fs-md-3 ps-2 ps-md-0"><span style={{ fontWeight: "bold" }}>Front End Developer</span></li>
                                 </ul>
                             </div>
                             <div className="static-txt me-3 fs-md-3">Chittagong, Bangladesh</div>
@@ -36,7 +36,7 @@ const Header = () => {
                                 <a href="https://github.com/kaziragib18" className="linkedin"><i className="fab fa-github"></i></a>
                                 <a href="https://kaziragib18.medium.com/" className="facebook"><i className="fab fa-medium"></i></a>
                                 <a href className="twitter"><i className="fab fa-twitter"></i></a>
-                                
+
 
                             </div>
                         </div>

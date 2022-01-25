@@ -14,7 +14,6 @@ const ModalP2 = () => {
 
                         <p className=""><a target="_blank" href="https://grace-e-commerce-website-client.vercel.app/">Live Site <i className="fas fa-external-link-alt"></i></a> | <a className="text-info" target="_blank" href="https://github.com/kaziragib18/Grace-E-commerce-website-client">Client Side <i className="fas fa-link"></i></a> | <a className="text-info" target="_blank" href="https://github.com/kaziragib18/Grace-E-commerce-website-server">Server Side <i className="fas fa-link"></i></a></p>
 
-
                     </div>
                 </div>
             </div>

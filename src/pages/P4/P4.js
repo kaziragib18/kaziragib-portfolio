@@ -29,7 +29,7 @@ const P4 = () => {
 
                 </div>
                 <p className="fst-italic textJustify fs-5">Technologies Used</p>
-                <p className="textJustify">
+                <p className="textJustify pb-3">
                     <ul>
                         <li className="text-start text-info fst-italic"><i className="fas fa-chevron-right"></i>HTML, CSS, SASS, Vanila Javascript, Media Query, Vercel</li>
                     </ul>

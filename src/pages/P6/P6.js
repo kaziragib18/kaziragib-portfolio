@@ -29,7 +29,7 @@ const P6 = () => {
 
                 </div>
                 <p className="fst-italic textJustify fs-5">Technologies Used</p>
-                <p className="textJustify">
+                <p className="textJustify pb-3">
                     <ul className="fst-italic">
                         <li className="text-start text-info"><i className="fas fa-chevron-right"></i>Html, Css, SASS, Vanilla javascript, Media Query, Scroll Reveal, Font Awesome, Netlify</li>
                     </ul>
@@ -41,7 +41,7 @@ const P6 = () => {
                 <div className="portfolio-wrap">
                     <img src={image} className="img-fluid" alt="" />
                     <div className="portfolio-info">
-                        <h4>GRACE.</h4>
+                        <h4>Soul Burger</h4>
                         <p className="text-white">Code</p>
 
                         <p className=""><a target="_blank" href="https://soul-burger-2021-kaziragib18.netlify.app/">Live Site <i className="fas fa-external-link-alt"></i></a> | <a className="text-info" target="_blank" href="https://github.com/kaziragib18/Soul-Burger-2.0">Code Link <i className="fas fa-link"></i></a></p>

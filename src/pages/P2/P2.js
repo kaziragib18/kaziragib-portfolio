@@ -29,7 +29,7 @@ const P2 = () => {
 
                 </div>
                 <p className="fst-italic textJustify fs-5">Technologies Used</p>
-                <p className="textJustify">
+                <p className="textJustify pb-3">
                     <ul className="fst-italic">
                         <li className="text-start text-info"><i className="fas fa-chevron-right"></i>React, Styled Components, Express, MongoDB, Vercel, Heroku, Stripe, MongoDB Authentication, CryptoJs, JWT.</li>
                     </ul>
